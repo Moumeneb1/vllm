@@ -1,0 +1,308 @@
+{
+  "commit": "2195f1c7e5871275b9a7add601944ab41ad653d1",
+  "main": {
+    "status": "audited_complete",
+    "pairs": 50,
+    "performance": {
+      "mixed_utterances:C1": {
+        "pairs": 4,
+        "throughput_speedup": 1.0401552316963465,
+        "throughput_speedup_range": [
+          1.0332957982489495,
+          1.046773312793508
+        ]
+      },
+      "mixed_utterances:C32": {
+        "pairs": 4,
+        "throughput_speedup": 1.127404296770912,
+        "throughput_speedup_range": [
+          1.1052588765666544,
+          1.1430920110741014
+        ]
+      },
+      "mixed_utterances:C64": {
+        "pairs": 4,
+        "throughput_speedup": 1.3703446661746523,
+        "throughput_speedup_range": [
+          1.3233917204250667,
+          1.4152530748735603
+        ]
+      },
+      "mixed_utterances:C8": {
+        "pairs": 4,
+        "throughput_speedup": 1.0551233246247436,
+        "throughput_speedup_range": [
+          1.0435035081923012,
+          1.069143578505226
+        ]
+      },
+      "short_1_3:C1": {
+        "pairs": 4,
+        "throughput_speedup": 1.0410161643277236,
+        "throughput_speedup_range": [
+          1.027276346497943,
+          1.047098713776881
+        ]
+      },
+      "short_1_3:C32": {
+        "pairs": 4,
+        "throughput_speedup": 1.209464895228108,
+        "throughput_speedup_range": [
+          1.174748657137034,
+          1.2451941512464988
+        ]
+      },
+      "short_1_3:C64": {
+        "pairs": 4,
+        "throughput_speedup": 1.43619137728167,
+        "throughput_speedup_range": [
+          1.3832074665319212,
+          1.5125193472255116
+        ]
+      },
+      "short_1_3:C8": {
+        "pairs": 4,
+        "throughput_speedup": 1.038319441317983,
+        "throughput_speedup_range": [
+          1.0053371598315508,
+          1.0648963092178014
+        ]
+      },
+      "utterance_15_30:C1": {
+        "pairs": 4,
+        "throughput_speedup": 1.0379004519568507,
+        "throughput_speedup_range": [
+          1.027345818049014,
+          1.0427846805758245
+        ]
+      },
+      "utterance_15_30:C32": {
+        "pairs": 4,
+        "throughput_speedup": 1.1353833529975514,
+        "throughput_speedup_range": [
+          1.1063199659423693,
+          1.1689671907939811
+        ]
+      },
+      "utterance_15_30:C64": {
+        "pairs": 4,
+        "throughput_speedup": 1.4238692191889373,
+        "throughput_speedup_range": [
+          1.3899922183380893,
+          1.4644942550044373
+        ]
+      },
+      "utterance_15_30:C8": {
+        "pairs": 4,
+        "throughput_speedup": 1.0446165508415293,
+        "throughput_speedup_range": [
+          1.0340115754058021,
+          1.0656502353012298
+        ]
+      }
+    },
+    "startup_memory": {
+      "allocated_bytes": {
+        "native": {
+          "median": 9186333184.0,
+          "min": 9186333184,
+          "max": 9186333184
+        },
+        "graphs": {
+          "median": 9233793536.0,
+          "min": 9233793536,
+          "max": 9233793536
+        },
+        "paired_native_minus_graphs": {
+          "median": -47460352.0,
+          "min": -47460352,
+          "max": -47460352
+        }
+      },
+      "reserved_bytes": {
+        "native": {
+          "median": 9338617856.0,
+          "min": 9338617856,
+          "max": 9338617856
+        },
+        "graphs": {
+          "median": 9711910912.0,
+          "min": 9711910912,
+          "max": 9711910912
+        },
+        "paired_native_minus_graphs": {
+          "median": -373293056.0,
+          "min": -373293056,
+          "max": -373293056
+        }
+      },
+      "peak_allocated_bytes": {
+        "native": {
+          "median": 9797915136.0,
+          "min": 9797915136,
+          "max": 9797915136
+        },
+        "graphs": {
+          "median": 9797915136.0,
+          "min": 9797915136,
+          "max": 9797915136
+        },
+        "paired_native_minus_graphs": {
+          "median": 0.0,
+          "min": 0,
+          "max": 0
+        }
+      },
+      "driver_free_bytes": {
+        "native": {
+          "median": 21523005440.0,
+          "min": 21422342144,
+          "max": 21623668736
+        },
+        "graphs": {
+          "median": 21512519680.0,
+          "min": 21378301952,
+          "max": 21646737408
+        },
+        "paired_native_minus_graphs": {
+          "median": 10485760.0,
+          "min": -23068672,
+          "max": 44040192
+        }
+      },
+      "kv_available_bytes": {
+        "native": {
+          "median": 53805193216.0,
+          "min": 53687810048,
+          "max": 53922576384
+        },
+        "graphs": {
+          "median": 53805193216.0,
+          "min": 53687810048,
+          "max": 53922576384
+        },
+        "paired_native_minus_graphs": {
+          "median": 0.0,
+          "min": 0,
+          "max": 0
+        }
+      },
+      "kv_num_blocks": {
+        "native": {
+          "median": 795.5,
+          "min": 794,
+          "max": 797
+        },
+        "graphs": {
+          "median": 790.0,
+          "min": 788,
+          "max": 792
+        },
+        "paired_native_minus_graphs": {
+          "median": 5.5,
+          "min": 5,
+          "max": 6
+        }
+      },
+      "kv_allocated_bytes": {
+        "native": {
+          "median": 53385101312.0,
+          "min": 53284438016,
+          "max": 53485764608
+        },
+        "graphs": {
+          "median": 53016002560.0,
+          "min": 52881784832,
+          "max": 53150220288
+        },
+        "paired_native_minus_graphs": {
+          "median": 369098752.0,
+          "min": 335544320,
+          "max": 402653184
+        }
+      }
+    },
+    "quality_and_live": {
+      "quality_earnings511:C32:R0": {
+        "native": {
+          "requests": 511,
+          "reference_words": 8317,
+          "word_errors": 1061,
+          "wer": 12.757003727305518,
+          "p95_after_audio_end_seconds": 9.840765080414712
+        },
+        "graphs": {
+          "requests": 511,
+          "reference_words": 8317,
+          "word_errors": 1045,
+          "wer": 12.564626668269808,
+          "p95_after_audio_end_seconds": 8.023784923367202
+        }
+      },
+      "live:mixed_utterances:C8:R0": {
+        "native": {
+          "requests": 8,
+          "reference_words": 204,
+          "word_errors": 43,
+          "wer": 21.07843137254902,
+          "p95_after_audio_end_seconds": 0.3328508152626455
+        },
+        "graphs": {
+          "requests": 8,
+          "reference_words": 204,
+          "word_errors": 43,
+          "wer": 21.07843137254902,
+          "p95_after_audio_end_seconds": 0.3125808256678283
+        }
+      }
+    },
+    "sync_guard": "passed"
+  },
+  "paced_C32": {
+    "status": "audited_complete_measured_pairs",
+    "pairs": 3,
+    "scope": "32 paced 60-second streams per mode per round; identical rebased production source; 192 measured requests; unaligned crops have no WER claim.",
+    "rows": [
+      {
+        "round": 0,
+        "native_seconds": 69.23601662367582,
+        "graphs_seconds": 66.83786486834288,
+        "total_time_reduction_percent": 3.4637344438340767,
+        "native_tail_p95_seconds": 9.172526639793068,
+        "graphs_tail_p95_seconds": 6.76343535175547,
+        "tail_p95_reduction_percent": 26.26420595592782,
+        "kv_loss_bytes": 402653184,
+        "extra_torch_live_bytes": 47460352
+      },
+      {
+        "round": 1,
+        "native_seconds": 68.35031894594431,
+        "graphs_seconds": 65.20187573693693,
+        "total_time_reduction_percent": 4.606332870951735,
+        "native_tail_p95_seconds": 8.314908399432898,
+        "graphs_tail_p95_seconds": 5.121051650773734,
+        "tail_p95_reduction_percent": 38.41120785981232,
+        "kv_loss_bytes": 335544320,
+        "extra_torch_live_bytes": 47460352
+      },
+      {
+        "round": 2,
+        "native_seconds": 69.59904789738357,
+        "graphs_seconds": 65.1975577045232,
+        "total_time_reduction_percent": 6.324066673081353,
+        "native_tail_p95_seconds": 9.56221327073872,
+        "graphs_tail_p95_seconds": 5.16311212098226,
+        "tail_p95_reduction_percent": 46.00505160471716,
+        "kv_loss_bytes": 335544320,
+        "extra_torch_live_bytes": 47460352
+      }
+    ],
+    "total_time_reduction_percent": 4.805317619697735,
+    "tail_p95_reduction_percent": 37.40911970955063,
+    "kv_loss_mib": {
+      "median": 320.0,
+      "min": 320.0,
+      "max": 384.0
+    }
+  }
+}

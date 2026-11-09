@@ -1,0 +1,20 @@
+{
+  "source_base": "dce91fea6b13c99b8fa91d9f58673e7123c6dc65",
+  "wheel_commit": "827f2ccfafd92757955a8c8a9c3600b99e18734c",
+  "native_inputs_identical": [
+    "csrc",
+    "cmake",
+    "CMakeLists.txt",
+    "setup.py",
+    "pyproject.toml",
+    "requirements/build",
+    "docker/versions.json",
+    "vllm/_custom_ops.py",
+    "vllm/_cpu_ops.py",
+    "rust"
+  ],
+  "wheel": "vllm-0.33.0rc1.dev1131+g827f2ccfa-cp38-abi3-manylinux_2_28_x86_64.whl",
+  "url": "https://wheels.vllm.ai/827f2ccfafd92757955a8c8a9c3600b99e18734c/vllm-0.33.0rc1.dev1131%2Bg827f2ccfa-cp38-abi3-manylinux_2_28_x86_64.whl",
+  "sha256": "ade395d25991326185253abe095831dd06998415399e603596999af25d1a0b23",
+  "verification": "git diff --name-only across all listed paths is empty"
+}

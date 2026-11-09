@@ -1,0 +1,17 @@
+{
+  "commit": "dce91fea6b13c99b8fa91d9f58673e7123c6dc65",
+  "head": "2195f1c7e5871275b9a7add601944ab41ad653d1",
+  "source_files_sha256": {
+    "docs/design/cuda_graphs.md": "df1e4a7562418ddac0a344cdf6acbc557f3639f812f2b8d434bd148ff8ab680a",
+    "docs/design/cuda_graphs_multimodal.md": "7aa5f8f14e25779c3d09960d0aa764638f19862f7ca1f9ec185f20fef1af2a6b",
+    "docs/models/supported_models.md": "fac7740a576f3f8bb2f59f7dc1f3ee482f694361b7b55d742f1d0911cb153aa2",
+    "tests/models/multimodal/generation/test_voxtral_realtime.py": "ff8f9fcc04d88ef4296a729b657951d61760b2c202f4a075075901284ecc926d",
+    "vllm/config/compilation.py": "e7673852c687c47b8d91ccd4367d754f886d791e591155ca754544edc6c2715b",
+    "vllm/model_executor/models/voxtral_realtime.py": "27badd65d23f8b4b710794ee70760863c950005e043e8e4f1393e31e1cec8b6f",
+    "vllm/v1/worker/encoder_cudagraph.py": "7a047c451a7623c424e8a09ba2de9c126b1c0af4281868d825ef5b72124bd674",
+    "vllm/v1/worker/encoder_cudagraph_defs.py": "920d6bf8a50c686979d4632615381ae7ec50e39701479d8a99e7a086b99cb6b2"
+  },
+  "archive_sha256": "8334bc661c8748c1af65bdab06aa23b9c8ce33ea509f935324fe4aae77bfb93b",
+  "native_wheel_sha256": "ade395d25991326185253abe095831dd06998415399e603596999af25d1a0b23",
+  "native_wheel_commit": "827f2ccfafd92757955a8c8a9c3600b99e18734c"
+}
