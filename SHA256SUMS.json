@@ -1,0 +1,19 @@
+{
+  "run_matrix.py": "93ad220ec98b74899a8a6a11b00b060a172f897aa1fed0796f4f568a83703e18",
+  "README.md": "e895c96fde12dd638e71d5eab2379ef4f4fc1b5a9dd09e781ead02ec22e72c7a",
+  "serving.py": "d9ad1c35f13494a0152505e0d5c3a2f322671802d544b195c998ddd22f76cced",
+  "pr_probe.py": "aadfce7c98896f2b4ca26f47a8b0e48707ff508ce826c59bbd1c86c6b93c6ef3",
+  "matrix_support.py": "abe0df5ff3d5b40e6fc8763005bd2a6493952eb7e2ae71559680a30231310ba7",
+  "audio_manifest.json": "086f60c5990352b6f5185062f4679dcca2656f94a57a0199431d99f730ac564c",
+  "prepare_audio.py": "b57f99bb20afc1d928619ba9e7ce420514f1adfdff3ae1756e68be36376097de",
+  "benchmark_template.json": "202322e9dfad026f37126bbf9237d8326c00c7eab0e570aa1a4aed50a27d8315",
+  "quality_template.json": "43ae350bb48741f35a7c80551f95dc19a199d68dc74d9c1f57a2a56be289af4f",
+  "focus_template.json": "5ea512d768bd861c9f1e28f9e74482eb9127523a4829fa62505985835cde75cb",
+  "NATIVE_BUILD.json": "6faadc5dfe3253e6ff88c9138d14fcbba3c5184395e04764ac3f71bc875c445c",
+  "CPU_VALIDATION.json": "d2f890597036b8f3768a93c1467b6deea896145333311cf3ff4b7b1435fc0756",
+  ".gitignore": "fa0246f365342370f7d0ec11493b6221197f4a10c4b1d71c531af0a7fbc1f5f2",
+  "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+  "SUMMARY.json": "fb5b7326f9d4ad4d00833e536e79dd8460dd27dd8377e3f863207919ff7a2c52",
+  "RESULTS.md": "376758bf8cda47705831ad8b60ff570f9193ad484b17e149299cc74fe653a0e9",
+  "public_data/whisper_english_normalizer.json": "bf1c507dc8724ca9cf9903640dacfb69dae2f00edee4f21ceba106a7392f26dd"
+}

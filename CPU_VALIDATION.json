@@ -1,0 +1,15 @@
+{
+  "native": {
+    "commit": "4233576700a4acc90da17bab2f8dc363f0b85c3f",
+    "source_files_match_measured": true,
+    "python_files": 3296
+  },
+  "simplified": {
+    "commit": "8349b6b3ed79c9c873d727f32ce71812c71c9a3f",
+    "source_files_match_measured": true,
+    "python_files": 3296
+  },
+  "benchmark_cases_match_measured": 96,
+  "quality_cases_match_measured": 26,
+  "focus_cases_match_measured": 2
+}
