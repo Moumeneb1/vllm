@@ -446,7 +446,85 @@
           -0.6978039264351699,
           1.9006679883750044
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 97.15820422396064,
+            "published": 93.53467931970954,
+            "simplified": 92.82914357632399
+          },
+          "audio_seconds_per_second": {
+            "native": 5.679421304741627,
+            "published": 5.899441565559788,
+            "simplified": 5.944279498240861
+          },
+          "p95_seconds": {
+            "native": 3.512129924260077,
+            "published": 3.382189290411768,
+            "simplified": 3.3653649996966095
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 97.37585670594126,
+            "published": 95.00319258216769,
+            "simplified": 94.27807745523751
+          },
+          "audio_seconds_per_second": {
+            "native": 5.66672678081129,
+            "published": 5.808250859809258,
+            "simplified": 5.852923499230152
+          },
+          "p95_seconds": {
+            "native": 3.53699156278744,
+            "published": 3.4538472053594855,
+            "simplified": 3.4191875468473856
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 97.3472547987476,
+            "published": 94.5904134651646,
+            "simplified": 92.82609754428267
+          },
+          "audio_seconds_per_second": {
+            "native": 5.668391739867523,
+            "published": 5.833597240836839,
+            "simplified": 5.944474556164152
+          },
+          "p95_seconds": {
+            "native": 3.5209172333125,
+            "published": 3.3992423881310945,
+            "simplified": 3.3752429109532356
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 97.26874466985464,
+            "published": 93.43284740578383,
+            "simplified": 94.08940698206425
+          },
+          "audio_seconds_per_second": {
+            "native": 5.672966962541809,
+            "published": 5.905871332417955,
+            "simplified": 5.864659930370133
+          },
+          "p95_seconds": {
+            "native": 3.505047764675689,
+            "published": 3.3948168766219142,
+            "simplified": 3.4067291152197843
+          }
+        }
+      ]
     },
     {
       "pool": "mixed_utterances",
@@ -471,7 +549,85 @@
           -0.6372221109195997,
           4.873423987716641
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 29.71311078220606,
+            "published": 28.875696301460266,
+            "simplified": 27.533854816108942
+          },
+          "audio_seconds_per_second": {
+            "native": 18.571006551439623,
+            "published": 19.10957814624525,
+            "simplified": 20.040868911575824
+          },
+          "p95_seconds": {
+            "native": 7.3723811440169795,
+            "published": 6.90533944312483,
+            "simplified": 7.047493553906674
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 31.310154502280056,
+            "published": 29.57462467532605,
+            "simplified": 29.629006262868643
+          },
+          "audio_seconds_per_second": {
+            "native": 17.623751264460125,
+            "published": 18.657967127487023,
+            "simplified": 18.623721973811996
+          },
+          "p95_seconds": {
+            "native": 8.085356187401334,
+            "published": 7.667521140631283,
+            "simplified": 7.7683287710417
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 30.30970787256956,
+            "published": 29.48494378104806,
+            "simplified": 29.67403328232467
+          },
+          "audio_seconds_per_second": {
+            "native": 18.205466622110993,
+            "published": 18.714716877116118,
+            "simplified": 18.59546256317913
+          },
+          "p95_seconds": {
+            "native": 7.224789526639506,
+            "published": 7.46422587530687,
+            "simplified": 7.498991825105618
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 29.617588221095502,
+            "published": 28.480777099728584,
+            "simplified": 28.303243208676577
+          },
+          "audio_seconds_per_second": {
+            "native": 18.63090170883569,
+            "published": 19.374554741529806,
+            "simplified": 19.496082866957124
+          },
+          "p95_seconds": {
+            "native": 7.000240788888186,
+            "published": 6.702090777363627,
+            "simplified": 6.7239641678985205
+          }
+        }
+      ]
     },
     {
       "pool": "mixed_utterances",
@@ -496,7 +652,85 @@
           -2.4376944138090995,
           1.5235573475090192
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 24.412497345358133,
+            "published": 21.48068279772997,
+            "simplified": 21.454911202192307
+          },
+          "audio_seconds_per_second": {
+            "native": 45.206548694611236,
+            "published": 51.37661406725053,
+            "simplified": 51.43832755118704
+          },
+          "p95_seconds": {
+            "native": 10.718292544968426,
+            "published": 9.269761718995868,
+            "simplified": 9.267593753710388
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 25.26162393298,
+            "published": 22.374696037732065,
+            "simplified": 22.93375079985708
+          },
+          "audio_seconds_per_second": {
+            "native": 43.68700733285806,
+            "published": 49.32378737744243,
+            "simplified": 48.12142416786344
+          },
+          "p95_seconds": {
+            "native": 10.826738804299383,
+            "published": 9.311689534550533,
+            "simplified": 9.335101176565512
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 24.88432806916535,
+            "published": 22.242483376525342,
+            "simplified": 22.409817579202354
+          },
+          "audio_seconds_per_second": {
+            "native": 44.34938917910739,
+            "published": 49.616975376263134,
+            "simplified": 49.24648521120542
+          },
+          "p95_seconds": {
+            "native": 10.676858237246046,
+            "published": 9.149264326598495,
+            "simplified": 9.245533682545645
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 23.940155839547515,
+            "published": 21.34473201725632,
+            "simplified": 21.02441302780062
+          },
+          "audio_seconds_per_second": {
+            "native": 46.09847811336799,
+            "published": 51.70384660288927,
+            "simplified": 52.491584356752384
+          },
+          "p95_seconds": {
+            "native": 10.831548014516011,
+            "published": 9.631906321085987,
+            "simplified": 9.470460210507733
+          }
+        }
+      ]
     },
     {
       "pool": "mixed_utterances",
@@ -521,7 +755,85 @@
           -2.6992712681721986,
           1.1643754061929412
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 40.83624094352126,
+            "published": 29.421804420650005,
+            "simplified": 29.29779925569892
+          },
+          "audio_seconds_per_second": {
+            "native": 54.0502614589989,
+            "published": 75.01951506586886,
+            "simplified": 75.33704087246963
+          },
+          "p95_seconds": {
+            "native": 19.369852006435394,
+            "published": 12.973825078457594,
+            "simplified": 13.06027509830892
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 42.73772046621889,
+            "published": 30.31470920983702,
+            "simplified": 31.150906957685947
+          },
+          "audio_seconds_per_second": {
+            "native": 51.64546625140293,
+            "published": 72.80985229717355,
+            "simplified": 70.85538482067885
+          },
+          "p95_seconds": {
+            "native": 19.249839333817363,
+            "published": 12.967428360134363,
+            "simplified": 13.53077986720018
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 41.50283191818744,
+            "published": 29.913006224669516,
+            "simplified": 29.568715374916792
+          },
+          "audio_seconds_per_second": {
+            "native": 53.18214198855074,
+            "published": 73.78761878435658,
+            "simplified": 74.64678367029704
+          },
+          "p95_seconds": {
+            "native": 19.024213157594204,
+            "published": 13.221636234782636,
+            "simplified": 12.861284370534122
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 41.176709675230086,
+            "published": 29.7564005414024,
+            "simplified": 30.581888675689697
+          },
+          "audio_seconds_per_second": {
+            "native": 53.60334804331756,
+            "published": 74.17595743574353,
+            "simplified": 72.17374712878886
+          },
+          "p95_seconds": {
+            "native": 18.99728484544903,
+            "published": 12.946096370229498,
+            "simplified": 13.402399524115026
+          }
+        }
+      ]
     },
     {
       "pool": "short_1_3",
@@ -546,7 +858,85 @@
           -0.4706064638699492,
           0.9063705048659498
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 28.872779231518507,
+            "published": 27.555345498025417,
+            "simplified": 27.307835333049297
+          },
+          "audio_seconds_per_second": {
+            "native": 4.49427206018142,
+            "published": 4.709145273075912,
+            "simplified": 4.751827576862361
+          },
+          "p95_seconds": {
+            "native": 0.5660453526303172,
+            "published": 0.540553923510015,
+            "simplified": 0.5347236657515168
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 28.777214230038226,
+            "published": 27.32922077458352,
+            "simplified": 27.404665521346033
+          },
+          "audio_seconds_per_second": {
+            "native": 4.509196893163888,
+            "published": 4.748109215052345,
+            "simplified": 4.735037721913654
+          },
+          "p95_seconds": {
+            "native": 0.5651732715778053,
+            "published": 0.5333883634768426,
+            "simplified": 0.5371297968551516
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 28.909798000007868,
+            "published": 27.590580300427973,
+            "simplified": 27.72103729378432
+          },
+          "audio_seconds_per_second": {
+            "native": 4.4885171802295085,
+            "published": 4.703131416122741,
+            "simplified": 4.680998175674168
+          },
+          "p95_seconds": {
+            "native": 0.5666885550133883,
+            "published": 0.5415168941020966,
+            "simplified": 0.5433256777003407
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 28.697479928843677,
+            "published": 27.53918871190399,
+            "simplified": 27.628165470436215
+          },
+          "audio_seconds_per_second": {
+            "native": 4.5217254379739735,
+            "published": 4.711908050650362,
+            "simplified": 4.696733307857635
+          },
+          "p95_seconds": {
+            "native": 0.5620190624147653,
+            "published": 0.5413603014312685,
+            "simplified": 0.5435533931944518
+          }
+        }
+      ]
     },
     {
       "pool": "short_1_3",
@@ -571,7 +961,85 @@
           -5.668281558605703,
           4.402032267002598
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 8.252001941204071,
+            "published": 8.234880223870277,
+            "simplified": 8.174237314611673
+          },
+          "audio_seconds_per_second": {
+            "native": 15.724926620783862,
+            "published": 15.757621419175132,
+            "simplified": 15.874523824754469
+          },
+          "p95_seconds": {
+            "native": 1.2805924801155926,
+            "published": 1.239723965153098,
+            "simplified": 1.2329413320869207
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 8.0325594143942,
+            "published": 8.095039902254939,
+            "simplified": 7.753718703053892
+          },
+          "audio_seconds_per_second": {
+            "native": 16.154517919589694,
+            "published": 16.029831423542916,
+            "simplified": 16.735469775153398
+          },
+          "p95_seconds": {
+            "native": 1.2100733620114623,
+            "published": 1.2130932133179158,
+            "simplified": 1.2110970452427863
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 8.253972650505602,
+            "published": 8.278636894188821,
+            "simplified": 8.030689309351146
+          },
+          "audio_seconds_per_second": {
+            "native": 15.721172154847318,
+            "published": 15.674334634858349,
+            "simplified": 16.158279819006516
+          },
+          "p95_seconds": {
+            "native": 1.2563211685977873,
+            "published": 1.2077090702485294,
+            "simplified": 1.2120323175098746
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 8.546553866937757,
+            "published": 7.491243270225823,
+            "simplified": 7.941383231431246
+          },
+          "audio_seconds_per_second": {
+            "native": 15.182976322419643,
+            "published": 17.321841024138617,
+            "simplified": 16.339990303756373
+          },
+          "p95_seconds": {
+            "native": 1.2601969791576266,
+            "published": 1.1981902407947926,
+            "simplified": 1.216283075278625
+          }
+        }
+      ]
     },
     {
       "pool": "short_1_3",
@@ -596,7 +1064,85 @@
           -12.862666542384392,
           1.2889098502560037
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 7.006446655839682,
+            "published": 5.824817132204771,
+            "simplified": 5.75069584697485
+          },
+          "audio_seconds_per_second": {
+            "native": 37.040780119790625,
+            "published": 44.55491805315553,
+            "simplified": 45.129190780716144
+          },
+          "p95_seconds": {
+            "native": 2.1348056798800825,
+            "published": 1.7257959263399243,
+            "simplified": 1.6897175950929522
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 7.031408257782459,
+            "published": 5.6490260269492865,
+            "simplified": 6.482899812050164
+          },
+          "audio_seconds_per_second": {
+            "native": 36.90928480973282,
+            "published": 45.941415168192115,
+            "simplified": 40.032124130255156
+          },
+          "p95_seconds": {
+            "native": 2.1098308524582534,
+            "published": 1.6362070676870644,
+            "simplified": 2.161303232097998
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 7.040701961144805,
+            "published": 5.712702276185155,
+            "simplified": 5.740358829498291
+          },
+          "audio_seconds_per_second": {
+            "native": 36.860564675542925,
+            "published": 45.42933229373645,
+            "simplified": 45.21045769236041
+          },
+          "p95_seconds": {
+            "native": 2.141456292849034,
+            "published": 1.6539382877293973,
+            "simplified": 1.712448462191969
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 6.958511103875935,
+            "published": 5.801140104420483,
+            "simplified": 5.794579645618796
+          },
+          "audio_seconds_per_second": {
+            "native": 37.295945371912005,
+            "published": 44.736766450829535,
+            "simplified": 44.78741614954293
+          },
+          "p95_seconds": {
+            "native": 2.1077379094902424,
+            "published": 1.6989680049009621,
+            "simplified": 1.7250580259598791
+          }
+        }
+      ]
     },
     {
       "pool": "short_1_3",
@@ -621,7 +1167,85 @@
           -4.9535282605798425,
           7.6177961791220605
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 11.897684268653393,
+            "published": 8.573360297828913,
+            "simplified": 7.966489374637604
+          },
+          "audio_seconds_per_second": {
+            "native": 43.62601059834201,
+            "published": 60.5420140958548,
+            "simplified": 65.15398133241237
+          },
+          "p95_seconds": {
+            "native": 3.867491412907839,
+            "published": 2.6608421318233013,
+            "simplified": 2.4556800555437803
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 11.671569287776947,
+            "published": 8.237411097623408,
+            "simplified": 8.666719497181475
+          },
+          "audio_seconds_per_second": {
+            "native": 44.4711835402951,
+            "published": 63.011120101769805,
+            "simplified": 59.88984646022073
+          },
+          "p95_seconds": {
+            "native": 3.6745938579551876,
+            "published": 2.5062541416846216,
+            "simplified": 2.6732388406526297
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 11.589061452075839,
+            "published": 8.498206907883286,
+            "simplified": 8.127104273065925
+          },
+          "audio_seconds_per_second": {
+            "native": 44.78779426154719,
+            "published": 61.077413815202505,
+            "simplified": 63.86635172384599
+          },
+          "p95_seconds": {
+            "native": 3.6154541617725044,
+            "published": 2.6299219687934965,
+            "simplified": 2.45804530242458
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 11.472563855350018,
+            "published": 8.291286319494247,
+            "simplified": 8.094990596175194
+          },
+          "audio_seconds_per_second": {
+            "native": 45.24258975973809,
+            "published": 62.60168567326245,
+            "simplified": 64.11971624096086
+          },
+          "p95_seconds": {
+            "native": 3.6103298470843583,
+            "published": 2.5114312309306115,
+            "simplified": 2.439653887646273
+          }
+        }
+      ]
     },
     {
       "pool": "utterance_15_30",
@@ -646,7 +1270,85 @@
           -0.1187804964393302,
           0.9205874869226083
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 198.16208462417126,
+            "published": 190.62388221919537,
+            "simplified": 188.8850302658975
+          },
+          "audio_seconds_per_second": {
+            "native": 5.855022681056701,
+            "published": 6.086558968859182,
+            "simplified": 6.142591069110667
+          },
+          "p95_seconds": {
+            "native": 4.026590382494031,
+            "published": 3.871315439045428,
+            "simplified": 3.8498444059863672
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 198.51709630619735,
+            "published": 192.25991116464138,
+            "simplified": 191.570596142672
+          },
+          "audio_seconds_per_second": {
+            "native": 5.844552039036546,
+            "published": 6.034765609594128,
+            "simplified": 6.0564800828615155
+          },
+          "p95_seconds": {
+            "native": 4.031699451664461,
+            "published": 3.884164419537409,
+            "simplified": 3.889383342210202
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 199.111619242467,
+            "published": 189.5418291958049,
+            "simplified": 189.17418115213513
+          },
+          "audio_seconds_per_second": {
+            "native": 5.827100921655006,
+            "published": 6.121305808447266,
+            "simplified": 6.133202178720808
+          },
+          "p95_seconds": {
+            "native": 4.045519190188496,
+            "published": 3.8517927005421355,
+            "simplified": 3.8392366529908015
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 197.43711179401726,
+            "published": 190.6242850907147,
+            "simplified": 190.85097883082926
+          },
+          "audio_seconds_per_second": {
+            "native": 5.876521842613166,
+            "published": 6.0865461053289245,
+            "simplified": 6.079316475649006
+          },
+          "p95_seconds": {
+            "native": 3.99551236941479,
+            "published": 3.863479638053103,
+            "simplified": 3.872022398514672
+          }
+        }
+      ]
     },
     {
       "pool": "utterance_15_30",
@@ -671,7 +1373,85 @@
           -1.5028918967448734,
           2.2420989995104446
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 58.77609948813915,
+            "published": 55.944724559783936,
+            "simplified": 56.79834224283695
+          },
+          "audio_seconds_per_second": {
+            "native": 19.74005607898724,
+            "published": 20.739104698962898,
+            "simplified": 20.42741837498475
+          },
+          "p95_seconds": {
+            "native": 9.145997430384156,
+            "published": 8.927002401463684,
+            "simplified": 8.912996275909242
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 58.73106758017093,
+            "published": 57.485003027133644,
+            "simplified": 57.20518659520894
+          },
+          "audio_seconds_per_second": {
+            "native": 19.755191720569492,
+            "published": 20.18341200142845,
+            "simplified": 20.28213819509109
+          },
+          "p95_seconds": {
+            "native": 9.3097948487848,
+            "published": 8.908656262466682,
+            "simplified": 8.842469007940961
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 59.06621026713401,
+            "published": 57.23500764090568,
+            "simplified": 57.25709577836096
+          },
+          "audio_seconds_per_second": {
+            "native": 19.643100424974953,
+            "published": 20.271570631726057,
+            "simplified": 20.263750443984065
+          },
+          "p95_seconds": {
+            "native": 8.73373627848923,
+            "published": 8.415392547147347,
+            "simplified": 8.418023595772683
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 64,
+          "seconds": {
+            "native": 57.895602327771485,
+            "published": 53.54389194492251,
+            "simplified": 52.36971117462963
+          },
+          "audio_seconds_per_second": {
+            "native": 20.040269957489535,
+            "published": 21.669016910341057,
+            "simplified": 22.15485772169156
+          },
+          "p95_seconds": {
+            "native": 8.578803399344906,
+            "published": 8.252259936509653,
+            "simplified": 8.02468529031612
+          }
+        }
+      ]
     },
     {
       "pool": "utterance_15_30",
@@ -696,7 +1476,85 @@
           -1.2170027408260453,
           0.28228301541082246
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 48.11162569001317,
+            "published": 41.11204779148102,
+            "simplified": 41.11477005109191
+          },
+          "audio_seconds_per_second": {
+            "native": 48.231315544211135,
+            "published": 56.442992374630315,
+            "simplified": 56.43925521452292
+          },
+          "p95_seconds": {
+            "native": 14.529145218990744,
+            "published": 12.058090768940746,
+            "simplified": 11.952798467501998
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 46.50027269683778,
+            "published": 40.99715634714812,
+            "simplified": 41.502239742316306
+          },
+          "audio_seconds_per_second": {
+            "native": 49.90265358503592,
+            "published": 56.60116961164356,
+            "simplified": 55.91233182613026
+          },
+          "p95_seconds": {
+            "native": 13.965227563073858,
+            "published": 12.068085711635648,
+            "simplified": 12.24550210707821
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 47.04499392025173,
+            "published": 41.81668030843139,
+            "simplified": 41.69897119514644
+          },
+          "audio_seconds_per_second": {
+            "native": 49.32484429551784,
+            "published": 55.491898995438106,
+            "simplified": 55.64854320123115
+          },
+          "p95_seconds": {
+            "native": 13.798248928412793,
+            "published": 12.251937952637672,
+            "simplified": 12.253842850262298
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 128,
+          "seconds": {
+            "native": 46.95501918718219,
+            "published": 41.89176729507744,
+            "simplified": 41.89755888376385
+          },
+          "audio_seconds_per_second": {
+            "native": 49.41936006350197,
+            "published": 55.39243507333892,
+            "simplified": 55.384778059211364
+          },
+          "p95_seconds": {
+            "native": 13.638430176069958,
+            "published": 11.979978077672422,
+            "simplified": 12.046635709796101
+          }
+        }
+      ]
     },
     {
       "pool": "utterance_15_30",
@@ -721,7 +1579,85 @@
           -2.2067868399453627,
           1.2086291072058941
         ]
-      }
+      },
+      "rounds": [
+        {
+          "repeat": 0,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 85.47955872491002,
+            "published": 58.82551418244839,
+            "simplified": 58.696628484874964
+          },
+          "audio_seconds_per_second": {
+            "native": 54.29337808043166,
+            "published": 78.89389603303655,
+            "simplified": 79.06713076707453
+          },
+          "p95_seconds": {
+            "native": 26.048519243486226,
+            "published": 17.51852630171925,
+            "simplified": 17.14339442923665
+          }
+        },
+        {
+          "repeat": 1,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 83.86849129758775,
+            "published": 58.40534360706806,
+            "simplified": 59.723309746943414
+          },
+          "audio_seconds_per_second": {
+            "native": 55.33632390658594,
+            "published": 79.46146214330912,
+            "simplified": 77.7079170539024
+          },
+          "p95_seconds": {
+            "native": 24.688676001504064,
+            "published": 17.204493169207126,
+            "simplified": 17.44442583550699
+          }
+        },
+        {
+          "repeat": 2,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 83.09459265414625,
+            "published": 57.94584572315216,
+            "simplified": 57.253858919255435
+          },
+          "audio_seconds_per_second": {
+            "native": 55.85169686451823,
+            "published": 80.09157416000414,
+            "simplified": 81.05958423772135
+          },
+          "p95_seconds": {
+            "native": 25.181245191255584,
+            "published": 17.50310196215287,
+            "simplified": 17.37800349504687
+          }
+        },
+        {
+          "repeat": 3,
+          "requests_per_variant": 256,
+          "seconds": {
+            "native": 85.04564608074725,
+            "published": 59.550407441332936,
+            "simplified": 59.085249993018806
+          },
+          "audio_seconds_per_second": {
+            "native": 54.57038912484234,
+            "published": 77.9335389866498,
+            "simplified": 78.54708240294072
+          },
+          "p95_seconds": {
+            "native": 25.335872508585453,
+            "published": 17.319023522315547,
+            "simplified": 17.25853670714423
+          }
+        }
+      ]
     }
   ],
   "focused_short_c32": {

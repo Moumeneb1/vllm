@@ -6,7 +6,7 @@ Four paired rounds; each comparison uses the same physical A100-SXM4-80GB. Origi
 - **Published:** current PR `4233576700a4`, with audio embedding graphs enabled.
 - **Simplified:** Andy’s `e3a0be385e2a`, plus the tested normalization regression and docs link; audio embedding graphs enabled.
 
-18,432 measured throughput requests; 6,510 quality/streaming requests. Warmups excluded. Gains are geometric means of four paired ratios; round ranges are recorded in `FINAL_RESULTS.json`.
+18,432 measured throughput requests; 6,510 quality/streaming requests. Warmups excluded. Gains are geometric means of four paired ratios; round ranges are recorded in `SUMMARY.json`.
 
 | Concurrency | Short 1–3 s | Long 15–30 s | Mixed |
 | --- | --- | --- | --- |
@@ -28,6 +28,6 @@ Each WER pass uses the same 511 Earnings22 clips and normalization. The three C3
 
 Long 60/180/300 s and ragged-packet controls have no aligned WER references. Their results establish complete streaming and delta/output consistency, not long-form accuracy. Actual graph hits, zero fallback for the captured schedule, exact request identities and token counts, source hashes, GPU UUIDs and output-delta consistency are audited before this report is produced.
 
-Memory snapshots and individual latency results are retained in `FINAL_RESULTS.json` and the raw serving JSON.
+Memory snapshots and individual latency results are retained in `SUMMARY.json` and the raw serving JSON.
 
 A separate short-C32 control used two paired rounds in AB/BA order, 1,024 requests per cell (4,096 total), on another A100 host. Simplified versus published throughput changed +0.16% overall; the two paired results were -0.39%, +0.71%. This was added to investigate one short-cell outlier; it does not replace any primary result above.
